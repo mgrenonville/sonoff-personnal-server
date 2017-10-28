@@ -1,0 +1,18 @@
+{
+  "name": "my-sonoff-cloud",
+  "version": "0.0.1",
+  "description": "A Sonoff cloud server that you can run locally and that publishes everything on MQTT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mgrenonville",
+  "license": "ISC",
+  "dependencies": {
+    "express-ws": "^3.0.0",
+    "mqtt": "^2.13.1",
+    "promise": "^8.0.1",
+    "request": "^2.83.0",
+    "wireless": "^0.3.2"
+  }
+}
