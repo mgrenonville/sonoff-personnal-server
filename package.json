@@ -1,5 +1,5 @@
 {
-  "name": "my-sonoff-cloud",
+  "name": "sonoff-personnal-server",
   "version": "0.0.1",
   "description": "A Sonoff cloud server that you can run locally and that publishes everything on MQTT",
   "main": "index.js",
