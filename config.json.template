@@ -1,0 +1,10 @@
+{
+  "iface": "wlan0",
+   "sonoffSSID": "ITEAD-10000",
+   "apiKey": "RANDOM_KEY",
+   "wsApiKey": "ANOTHER RANDOM KEY",
+   "ssid": "YOUR_SSID",
+   "password": "YOUR_WIFI_PASSWORD"
+
+
+}
