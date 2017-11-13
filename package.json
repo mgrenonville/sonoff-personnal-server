@@ -13,6 +13,7 @@
     "mqtt": "^2.13.1",
     "promise": "^8.0.1",
     "request": "^2.83.0",
+    "winston": "^3.0.0-rc1",
     "wireless": "^0.3.2"
   }
 }

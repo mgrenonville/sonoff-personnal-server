@@ -5,8 +5,6 @@ const Promise = require('promise');
 
 
 function SonoffConfigurer() {
-  if (!(this instanceof SonoffConfigurer))
-  return new SonoffConfigurer();
 }
 
 
